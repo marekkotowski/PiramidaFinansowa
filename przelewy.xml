@@ -1,0 +1,7 @@
+﻿<przelewy>
+  <przelew od="2" kwota="100" />
+  <przelew od="3" kwota="50" />
+  <przelew od="4" kwota="100" />
+  <przelew od="4" kwota="200" />
+  <przelew od="12" kwota="1900" />
+</przelewy>
